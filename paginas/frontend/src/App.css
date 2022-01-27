@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+#pCabecalho,#pRodape{
+	font-size: 16px;
+}
+.btn{
+	background-color: #34ebdb;
+	border-radius: 4px;
+}
+.btn:hover{
+	transition: 0.5s;
+	background-color: #c0a9cc;
+}
+ul{
+	list-style-type: none; 
+}
